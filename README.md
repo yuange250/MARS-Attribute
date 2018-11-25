@@ -15,10 +15,18 @@ The vedio-data of MARS is accessible on http://www.liangzheng.com.cn/Project/pro
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 1 | 2 | 58 | 8 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
 
+
 The trackets of MARS can be identified by three attributes person-id, camera-id and tracket number, and for each tracket, 32 attributes is given.
+
+
 Since several attributes is mutual exclusive, such as the color of tops, the color of downs, and the age, so we combine the 32 attributes ino 12 kinds, which is shown in the figure and the example table.
+
+
 For the Tops.c attribute, the value 0~8 means the color of tops is \[black, uppurple, upgreen, upblue, upgray, upwhite, upyellow, upred, upcomplex\]
+
+
 For the Bottoms.c attribute, the value 0~9 means the color of bottoms is \[white, purple, black, green, dgray, pink, yellow, blue, brown, complex\]
+
 For the Age attribute, the value 0~3 means the age is \[young, teenager, adult, old\]
 
 ## Motion attributes
