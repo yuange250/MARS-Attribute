@@ -11,9 +11,9 @@ The detailed information of MARS can be found at http://www.liangzheng.com.cn/Pr
 ## Explanition of the data
 The attributes data is organised as follows:
 
-id|camera|tracklet|Tops.c|Bottoms.c|Age|Tops.l|Bottoms.l|shoulder|bag|backpack|hat|handbag|hair|gender|Bottoms.t
----|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-1|2|58|8|0|1|1|1|0|0|0|0|1|1|0
+|id|camera|tracklet|Tops.c|Bottoms.c|Age|Tops.l|Bottoms.l|shoulder|bag|backpack|hat|handbag|hair|gender|Bottoms.t|
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|1|2|58|8|0|1|1|1|0|0|0|0|1|1|0|
 
 
 
