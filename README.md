@@ -1,3 +1,4 @@
 # MARS-Attribute
 Tracket-level person attributes on the MARS dataset.
-We follow the 
+We annotate 32 attributes for MARS
+![attributes](attr.jpeg)
