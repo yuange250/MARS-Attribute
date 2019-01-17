@@ -27,4 +27,4 @@ Since several attributes is mutual exclusive, such as the color of tops, the col
 **For the Age attribute, the value 0~3 means the age is \[young, teenager, adult, old\]**
 
 ## Motion attributes
-Except for the origion 32 attributes, we also labeled several motion attributes, and these motion attributes would be published soon.
+Except for the original 32 attributes, we also labeled several motion attributes, and these motion attributes would be published soon.
