@@ -1,4 +1,4 @@
-# \color{red}{NEW DATASET has been published on http://irip.buaa.edu.cn/mars_duke_attributes/index.html}!
+# NEW DATASET has been published on http://irip.buaa.edu.cn/mars_duke_attributes/index.html!
 # MARS-Attribute
 
 ## Vedio-based person attributes with trackets-level labels based on the MARS dataset.
