@@ -1,4 +1,6 @@
+# \color{red}{NEW DATASET has been published on http://irip.buaa.edu.cn/mars_duke_attributes/index.html}!
 # MARS-Attribute
+
 ## Vedio-based person attributes with trackets-level labels based on the MARS dataset.
 We labeled 32 attributes for [MARS](http://www.liangzheng.com.cn/1320.pdf), the definition of the attributes is from the [MARKET-1501_Attribute](https://github.com/vana77/Market-1501_Attribute), the main difference between these two attributes dataset is that [MARKET-1501_Attribute](https://github.com/vana77/Market-1501_Attribute) is instance-level, while ours is **trackets-level**.
 
